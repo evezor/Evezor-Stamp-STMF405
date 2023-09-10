@@ -23,3 +23,4 @@ I also developed a test and programming jig. It worked ok as well.
 
 ![empty](https://github.com/evezor/Evezor-Stamp-STMF405/blob/main/pics/20201022_030540.jpg)
 
+Evezor® and all associated marks, logos, and designs are registered trademarks and protected by copyright. Unauthorized use or reproduction of these trademarks and copyrighted materials is strictly prohibited
